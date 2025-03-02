@@ -38,5 +38,5 @@ If you find my projects helpful or just want to fuel my anime marathon sessions,
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/your-paypal-id)
 
 ---
-
+![GitHub stars](https://img.shields.io/github/stars/nama-user/nama-repo?style=social)
 Thank you for visiting my GitHub profile! May your code be bug-free and your anime queue be endless! 👨‍💻
