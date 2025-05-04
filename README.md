@@ -26,10 +26,7 @@ I'm a passionate IT enthusiast with a love for coding, anime, and exploring futu
 > "When I code, I feel like Kirito wielding dual swords, slashing through bugs and errors!" - *Sora Aoi*
 
 ## 📫 Connect with Me
-
-- LinkedIn: [Sora Aoi](https://www.linkedin.com/in/soraaoi)
-- Twitter: [@soraaoi_dev](https://twitter.com/soraaoi_dev)
-- Instagram: [@soraaoi](https://instagram.com/soraaoi)
+- Instagram: [@soraaoi](https://instagram.com/mcisreal_)
 
 ## 💖 Support Me
 
