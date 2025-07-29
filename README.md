@@ -26,7 +26,7 @@ I'm a passionate IT enthusiast with a love for coding, anime, and exploring futu
 > "When I code, I feel like Kirito wielding dual swords, slashing through bugs and errors!" - *Sora Aoi*
 
 ## 📫 Connect with Me
-- Instagram: [@soraaoi](https://instagram.com/mcisreal_)
+- Instagram: [@soraaoi](https://instagram.com/mcisreal)
 
 ## 💖 Support Me
 
@@ -35,5 +35,5 @@ If you find my projects helpful or just want to fuel my anime marathon sessions,
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/your-paypal-id)
 
 ---
-![GitHub stars](https://img.shields.io/github/stars/nama-user/nama-repo?style=social)
+![GitHub stars](https://img.shields.io/github/stars/kirabianr/kirabian?style=social)
 Thank you for visiting my GitHub profile! May your code be bug-free and your anime queue be endless! 👨‍💻
