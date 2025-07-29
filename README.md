@@ -15,9 +15,9 @@ I'm a passionate IT enthusiast with a love for coding, anime, and exploring futu
 
 ## 🔧 Technologies & Tools
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soraaoi&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirabian&layout=compact&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soraaoi&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirabian&show_icons=true&theme=tokyonight)
 
 ## 🖤 Favorite Anime Quotes
 
