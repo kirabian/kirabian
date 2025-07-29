@@ -30,9 +30,12 @@ I'm a passionate IT enthusiast with a love for coding, anime, and exploring futu
 
 ## 💖 Support Me
 
-If you find my projects helpful or just want to fuel my anime marathon sessions, consider buying me a coffee!
+If you find my projects helpful or just want to fuel my anime marathon sessions, consider supporting me!
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/your-paypal-id)
+[![Donate via PayPal](https://img.shields.io/badge/PayPal-Donate-blue.svg)](https://www.paypal.me/your-paypal-id)
+[![Donate via Saweria](https://img.shields.io/badge/Saweria-Donate-orange.svg)](https://saweria.co/Rubaku)
+
+Your support keeps the anime and code flowing! (◕‿◕✿)
 
 ---
 ![GitHub stars](https://img.shields.io/github/stars/kirabianr/kirabian?style=social)
