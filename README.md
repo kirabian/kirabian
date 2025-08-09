@@ -74,8 +74,6 @@ Your support keeps the anime & code flowing! (◕‿◕✿)
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/kirabian/kirabian/output/snake.svg" alt="Snake animation" />
-
 ---
 ![GitHub stars](https://img.shields.io/github/stars/kirabian/kirabian?style=social)  
 **Thank you for visiting my GitHub profile!** May your code be bug-free and your anime queue be endless! 👨‍💻
