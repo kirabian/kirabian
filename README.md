@@ -49,14 +49,14 @@ Your support keeps the anime & code flowing! (◕‿◕✿)
 
 ## 🎮 Contribution Fun
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/REPO_NAME/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/REPO_NAME/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/USERNAME/REPO_NAME/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kirabian/kirabian/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kirabian/kirabian/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/kirabian/kirabian/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
 
-<img src="https://raw.githubusercontent.com/USERNAME/REPO_NAME/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/kirabian/kirabian/output/snake.svg" alt="Snake animation" />
 
 
 ---
