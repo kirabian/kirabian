@@ -1,106 +1,120 @@
-# 🌸 Hi there, I'm Sora Aoi! 👋
-
-![Welcome](https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.gif)
-
----
-
-## 👨‍💻 About Me
-Selamat datang di sanctuary GitHub-ku! Namaku **Sora Aoi** (username: **kirabian**), seorang IT enthusiast dengan passion untuk coding, anime, dan teknologi futuristik. Di sinilah **kode bertemu kreativitas**!
-
-- 🌱 Saat ini sedang mendalami **advanced web development** & mengerjakan **proyek bertema anime**.
-- 👯 Terbuka untuk kolaborasi pada proyek **open source** & **aplikasi yang terinspirasi dari anime**.
-- 💬 Tanya aku tentang **web development, PHP, MySQL, dan anime favoritmu!**
-- 📫 Email: [soraaoi.dev@gmail.com](mailto:soraaoi.dev@gmail.com)
-
-![Anime Coding](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
-
----
-
-## 📌 Proyek Unggulan
-Beberapa proyek yang pernah saya kerjakan. Jangan ragu untuk memberikan bintang jika kamu menyukainya! ⭐
-
-| Proyek                  | Deskripsi Singkat                                        | Teknologi Digunakan                               |
-| ----------------------- | -------------------------------------------------------- | ------------------------------------------------- |
-| **[Nama Proyek Anime App](https://github.com/kirabian/nama-repo-1)** | Aplikasi untuk melacak daftar tontonan anime dan mendapatkan rekomendasi baru. | `PHP`, `Laravel`, `MySQL`, `Vue.js` |
-| **[Nama Proyek Web Lain](https://github.com/kirabian/nama-repo-2)** | Website portofolio atau blog pribadi dengan tema futuristik dan interaktif. | `HTML5`, `CSS3`, `JavaScript`, `Bootstrap`      |
-| **[Kontribusi Open Source](https://github.com/kirabian/nama-repo-3)** | Berkontribusi pada Proyek X dengan memperbaiki bug Y atau menambah fitur Z.       | `Node.js`, `React`                                |
-
----
-
-## 🛠️ My Tech Stack
-Teknologi, framework, dan tools yang aktif saya gunakan dalam pengembangan.
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,javascript,vue,html,css,bootstrap,tailwind,git,vscode,figma,postman&perline=7" />
-  </a>
-</p>
-
----
-
-## 📊 My GitHub Stats
-Statistik ini ditarik secara otomatis dari aktivitas GitHub-ku.
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirabian&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirabian&show_icons=true&theme=tokyonight)
-
----
-
-## 🖤 Favorite Anime Quotes
-> "In the world of programming, there's no such thing as too much coffee, and in the world of anime, there's no such thing as too many episodes!"  
-> — *Sora Aoi*
-
-> "When I code, I feel like Kirito wielding dual swords, slashing through bugs and errors!"  
-> — *Sora Aoi*
-
----
-
-## 📫 Connect with Me
-Jangan ragu untuk terhubung denganku melalui platform ini!
-
-- 💼 **LinkedIn**: [Sora Aoi](https://linkedin.com/in/username-linkedin-mu)
-- 💬 **Discord**: `sora_aoi#1234`
-- 📷 **Instagram**: [@soraaoi](https://instagram.com/mcisreal)
-- 🌐 **Portfolio**: [soraaoi.dev](https://website-portofolio-mu.com)
-
----
-
-## 💖 Support Me
-Jika kamu merasa proyekku bermanfaat atau sekadar ingin mentraktir kopi untuk sesi marathon anime & coding, dukunganmu sangat berarti!
-
-[![Donate via PayPal](https://img.shields.io/badge/PayPal-Donate-blue.svg)](https://www.paypal.me/username-paypal-mu)
-[![Donate via Saweria](https://img.shields.io/badge/Saweria-Donate-orange.svg)](https://saweria.co/Rubaku)
-
-Dukunganmu membuat anime & kode tetap mengalir! (◕‿◕✿)
-
----
-
-## 🎮 My Contribution Graph
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kirabian/kirabian/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kirabian/kirabian/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/kirabian/kirabian/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
-<img src="https://raw.githubusercontent.com/kirabian/kirabian/output/snake.svg" alt="Snake animation" />
-
----
-
-## 🎵 Recently Played on Spotify
 <div align="center">
-  <a href="https://open.spotify.com/user/31d75nl6jn22tri4egzooiqictvu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31d75nl6jn22tri4egzooiqictvu&count=10&unique=false" alt="Spotify recently played"  />
-  </a>
+
+## Hi there, I'm Fabian 👋
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Fullstack+%26+Mobile+Developer;Laravel+%7C+Next.js+%7C+Flutter;Building+at+PStore;Clean+code%2C+real+impact." alt="Typing SVG" />
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fabiansyahalghiffari)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mcisreal_)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabiansyahalghiffarireal@gmail.com)
+[![Saweria](https://img.shields.io/badge/Saweria-FF6B35?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://saweria.co/kirabian)
+
+<br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=kirabian&style=flat-square&color=58a6ff&label=Profile+Views)
+
 </div>
 
 ---
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=kirabian.kirabian&left_color=darkblue&right_color=deepskyblue&left_text=VIEWS" />
+## 👨‍💻 Tentang Saya
 
-<br clear="both">
+```ts
+const fabian = {
+  name    : "Fabian Syah Al Ghiffari",
+  age     : 19,
+  role    : "Fullstack & Mobile Developer",
+  company : "PStore — iPhone Reseller #1 Indonesia",
+  location: "Jakarta, Indonesia",
+  stack   : ["Next.js", "Laravel", "Flutter", "Node.js", "Docker"],
+  focus   : "Membangun produk digital yang bersih, scalable, dan berdampak nyata.",
+  motto   : "Write code for humans first, machines second.",
+};
+```
 
 ---
-![GitHub stars](https://img.shields.io/github/stars/kirabian/kirabian?style=social)  
-**Terima kasih telah mengunjungi profil GitHub-ku!** Semoga kodemu bebas bug dan antrian animemu tidak ada habisnya! 👨‍💻
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,php,dart,nextjs,react,tailwind,flutter,laravel,nodejs,mysql,postgres,redis,docker,git,linux,nginx,figma,vscode,postman&perline=20" />
+
+</div>
+
+---
+
+## 💼 Pengalaman
+
+**🏢 PSTORE** — Fullstack Developer *(2025 – Sekarang)*
+
+> Bisnis reseller iPhone terkemuka di Indonesia dengan ribuan transaksi per bulan.
+
+- Membangun sistem internal perusahaan dari nol hingga production-ready
+- Membuat tools operasional untuk mempercepat alur kerja tim
+- Mengelola VPS, deployment pipeline, dan optimasi performa sistem
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kirabian&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirabian&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="165"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=kirabian&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-trophies.vercel.app/?username=kirabian&theme=darkhub&no-frame=true&column=7&margin-w=4" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kirabian&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" width="100%" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+## 💬 Prinsip Kerja
+
+> *"Tulis kode untuk manusia terlebih dahulu, baru untuk mesin."*
+
+> *"Ship it, then improve it — tapi jangan ship sampah."*
+
+---
+
+## ☕ Support
+
+Kalau kamu merasa project-ku bermanfaat, traktir kopi yuk!
+
+<div align="center">
+
+[![Saweria](https://img.shields.io/badge/☕%20Traktir%20di%20Saweria-FF6B35?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://saweria.co/kirabian)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,100:0d1117&height=100&section=footer" width="100%"/>
+
+</div>
