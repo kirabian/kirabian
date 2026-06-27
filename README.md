@@ -1,6 +1,16 @@
 <div align="center">
 
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://count.getloli.com/@:kirabian?theme=miku&padding=7&scale=1&align=top&pixelated=1&darkmode=0"  />
+</div>
+
+<br/>
+
 ## Hi there, I'm Fabian 👋
+
+<br/>
+<img src="https://media.giphy.com/media/mXbQ2VCR26O2Y/giphy.gif" width="400" style="border-radius: 15px;" />
+<br/><br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Fullstack+%26+Mobile+Developer;Laravel+%7C+Next.js+%7C+Flutter;Building+at+PStore;Clean+code%2C+real+impact." alt="Typing SVG" />
 
@@ -23,14 +33,14 @@
 
 ```ts
 const fabian = {
-  name    : "Fabian Syah Al Ghiffari",
-  age     : 19,
-  role    : "Fullstack & Mobile Developer",
-  company : "PStore — iPhone Reseller #1 Indonesia",
+  name: "Fabian Syah Al Ghiffari",
+  age: 19,
+  role: "Fullstack & Mobile Developer",
+  company: "PStore — iPhone Reseller #1 Indonesia",
   location: "Jakarta, Indonesia",
-  stack   : ["Next.js", "Laravel", "Flutter", "Node.js", "Docker"],
-  focus   : "Membangun produk digital yang bersih, scalable, dan berdampak nyata.",
-  motto   : "Write code for humans first, machines second.",
+  stack: ["Next.js", "Laravel", "Flutter", "Node.js", "Docker"],
+  focus: "Membangun produk digital yang bersih, scalable, dan berdampak nyata.",
+  motto: "Write code for humans first, machines second.",
 };
 ```
 
@@ -48,7 +58,7 @@ const fabian = {
 
 ## 💼 Pengalaman
 
-**🏢 PSTORE** — Fullstack Developer *(2025 – Sekarang)*
+**🏢 PSTORE** — Fullstack Developer _(2025 – Sekarang)_
 
 > Bisnis reseller iPhone terkemuka di Indonesia dengan ribuan transaksi per bulan.
 
@@ -68,6 +78,21 @@ const fabian = {
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=kirabian&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165"/>
+
+</div>
+
+---
+
+## 🌟 Profile Summary
+
+<div align="center">
+  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirabian&theme=github_dark" alt="Profile Details" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kirabian&theme=github_dark" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kirabian&theme=github_dark&utcOffset=7" alt="Productive Time" />
 
 </div>
 
@@ -95,9 +120,9 @@ const fabian = {
 
 ## 💬 Prinsip Kerja
 
-> *"Tulis kode untuk manusia terlebih dahulu, baru untuk mesin."*
+> _"Tulis kode untuk manusia terlebih dahulu, baru untuk mesin."_
 
-> *"Ship it, then improve it — tapi jangan ship sampah."*
+> _"Ship it, then improve it — tapi jangan ship sampah."_
 
 ---
 
@@ -109,6 +134,14 @@ Kalau kamu merasa project-ku bermanfaat, traktir kopi yuk!
 
 [![Saweria](https://img.shields.io/badge/☕%20Traktir%20di%20Saweria-FF6B35?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://saweria.co/kirabian)
 
+</div>
+
+---
+
+<div data-importer="music" align="center">
+  <a href="https://open.spotify.com/user/3137ds3qan7i6ro3ad2ljmzbijau">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=3137ds3qan7i6ro3ad2ljmzbijau&count=8&unique=false" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ---
