@@ -108,6 +108,14 @@ const fabian = {
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kirabian/kirabian/output/snake.svg" alt="GitHub Contribution Snake" width="100%" />
+</div>
+
+---
+
 ## 🏙️ 3D Contribution City
 
 <div align="center">
